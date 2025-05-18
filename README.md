@@ -5,7 +5,7 @@
 ![alt text](image-3.png)
 ---
 ### Refrence Notes 
-* [Recording Link ](https://zoom.us/rec/share/1234567890)*
+* [Recording Link ](https://youtu.be/KbRMsMTy7a4?si=2YDLDK9p_ycYU9UL)
 * [Slides Link](./slides%20Telling-Stories-with-Data-Visualization-Using-Python.pptx)
 * [Types of Basic Plots](./00_1.%20Types%20of%20plots%20&%20charts.pdf)
 * [Workshop 01 Basic (Example with pandas,matplotlib & Seaborn)](./workshop_01_basic.ipynb)
